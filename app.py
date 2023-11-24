@@ -12,7 +12,7 @@ st.markdown(html_temp, unsafe_allow_html=True)
 
 st.write("\n\n"*2)
 
-filename = 'lasso_final_model'
+filename = 'final_model'
 model = pickle.load(open(filename, 'rb'))
 
 with st.sidebar:
