@@ -20,10 +20,6 @@ Auto Scout data which using for this project, scraped from the on-line car tradi
 ## Run the project ⚙️
 The repository includes a Jupyter notebook which you can run on your local machine
 
-## Streamlit link
-Network URL: http://172.31.19.12:8501
-EXternal URL: http://54.242.50.166:8501
-
 
 ## Acknowledgements
 This project is part of ML bootcamp provided by <a href="https://clarusway.com/"> Clarusway</a>.
